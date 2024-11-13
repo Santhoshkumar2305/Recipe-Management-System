@@ -1,0 +1,9 @@
+Recipe ID: 10 Recipe Name: Dosa Recipe Type: Vegetarian
+Recipe ID: 11 Recipe Name: Chicken 65 Recipe Type: Non-Vegetarian
+Recipe ID: 12 Recipe Name: veg-noodles Recipe Type: Vegetarian
+Recipe ID: 13 Recipe Name: pongal Recipe Type: Vegetarian
+Recipe ID: 14 Recipe Name: Grilled Chicken Recipe Type: Non-Vegetarian
+Recipe ID: 15 Recipe Name: Biriyani Recipe Type: Non-Vegetarian
+Recipe ID: 16 Recipe Name: coffee Recipe Type: Vegetarian
+Recipe ID: 18 Recipe Name: MuttonKuzhambhu Recipe Type: Non-Vegetarian
+Recipe ID: 19 Recipe Name: Pepper Chicken Recipe Type: Non-Vegetarian
